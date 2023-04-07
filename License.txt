@@ -1,3 +1,5 @@
 ************Scripted Login Without DB*************
+USERNAME: kapil
+PASSWORD: Password@123
 https://www.linkedin.com/in/kapil-rajan-30b312a2/  
 Designed & Developed By: Kapil
